@@ -7,3 +7,5 @@ typechain
 #Hardhat files
 cache
 artifacts
+buildspace-nft-course-starter/node_modules
+buildspace-nft-course-starter/build
